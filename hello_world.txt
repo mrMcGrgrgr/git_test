@@ -1,3 +1,7 @@
+
 This is about to get really, really cool.
 
 Also, Hi mom!
+
+I don't know what I will or won't end up doing with this file, but in the meantime,
+I will update it daily to get consistent practice with using git and git hub.
