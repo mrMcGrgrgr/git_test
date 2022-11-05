@@ -10,3 +10,5 @@ I am altering each file for practice. Pizza is the best!
 
 Alright, even if I just end up adding a line in both files for the first few
 days, this is so very satisfying. Heh. I'm hooked.
+
+I learned what a Fast Fourier Transfer is today.

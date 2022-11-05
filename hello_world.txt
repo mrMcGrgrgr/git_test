@@ -9,3 +9,5 @@ I will update it daily to get consistent practice with using git and git hub.
 So, if it's a .txt file I can use nano to update it an never leave the CLI. I 
 can get enough of this. I'm so happy I found computers. This is awesome. You 
 want tacos.
+
+I am only altering these documents so I can practice using nano, the shell, and git.
