@@ -11,3 +11,5 @@ can get enough of this. I'm so happy I found computers. This is awesome. You
 want tacos.
 
 I am only altering these documents so I can practice using nano, the shell, and git.
+
+Here's another line of text so I can add all my files for practice.
